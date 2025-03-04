@@ -5,12 +5,20 @@
  */
 var twoSum = function(nums, target) {
     
-   for(let i = 0; i < nums.length;i++){
-    for (let j = i + 1; j < nums.length; j++){
-      if (nums[i] + nums[j] === target){
-        return [i, j];
-      }
-    }
-  }
+const newMap = new Map();
+for (let index = 0; index < nums.length; index++){
+    const selectedNum = nums[index];
+    const complement = target - selectedNum;
+    const complementIndex = newMap.get(complement);
+
+    const isComplement = newMap.has(complement);
+
+    if (isComplement){
+        return [index, complementIndex];
+    };
+    newMap.set(selectedNum, index);
+}
+return [-1, -1];
+
     
 };
