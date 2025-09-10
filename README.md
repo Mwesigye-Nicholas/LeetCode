@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0217-contains-duplicate) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0242-valid-anagram) |
@@ -32,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Mwesigye-Nicholas/LeetCode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
