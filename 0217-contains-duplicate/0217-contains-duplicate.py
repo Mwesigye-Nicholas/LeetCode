@@ -11,4 +11,3 @@ class Solution(object):
                 return True
             my_set.add(num)
         return False
-        
